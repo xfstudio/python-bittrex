@@ -1,5 +1,7 @@
-python-bittrex
+python-bittrex  
 ==============
+
+![Travis Build Status](https://travis-ci.org/ericsomdahl/python-bittrex.svg?branch=travis-setup)
 
 Python bindings for bittrex.  I am Not associated -- use at your own risk, etc.
 
